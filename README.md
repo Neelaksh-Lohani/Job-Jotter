@@ -44,6 +44,12 @@ npm run dev
 4.) Build for production
 npm start
 
+# Project Screenshots
+
+![Dashboard Screenshot](public/PIC1.png)
+![Dashboard Screenshot](public/PIC2.png)
+![Dashboard Screenshot](public/PIC3.png)
+![Dashboard Screenshot](public/PIC4.png)
 
 
 
