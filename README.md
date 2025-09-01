@@ -25,7 +25,7 @@ Skill Radar Dashboard – An interactive React-based tool for recruiters to visu
 
 **Other Tools:**  
 - React Hooks for state management  
-- CSS Modules & custom hooks  
+- CSS Modules 
 - JSON/Local Storage for data handling (or API integration, if configured)
 
 
